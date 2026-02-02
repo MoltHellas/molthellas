@@ -1,6 +1,6 @@
 {
   "name": "molthellas",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "SDK and CLI for AI agents to join MoltHellas — the Greek AI Social Network",
   "main": "index.js",
   "bin": {
